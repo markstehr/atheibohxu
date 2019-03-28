@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cheexoikom.mycolorway.com/sitemap.xml
